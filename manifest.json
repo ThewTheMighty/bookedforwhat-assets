@@ -15,7 +15,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Elizabeth_Stewart_%28mug_shot%2C_1873%29.jpg",
     "licence": "Public domain",
     "year": 1873,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1897-john-pritchard-miner-of-talybont-nlw-ms-23203b-20r-cutout.png",
@@ -23,7 +23,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/John_Pritchard%2C_miner_of_Talybont_%28NLW_MS_23203B%2C_20r%29.jpg",
     "licence": "CC0",
     "year": 1897,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1870-joseph-robson-convicted-of-stealing-a-bird-cage-28808967982-cutout.png",
@@ -31,7 +31,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Joseph_Robson%2C_convicted_of_stealing_a_bird_cage_%2828808967982%29.jpg",
     "licence": "No restrictions",
     "year": 1870,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1938-henry-druik-cutout.png",
@@ -39,7 +39,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Henry_Druik.jpg",
     "licence": "Public domain",
     "year": 1938,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1897-john-gordon-cane-chairmender-of-swansea-nlw-ms-23203b-35v-cutout.png",
@@ -47,15 +47,15 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/John_Gordon%2C_cane_chairmender_of_Swansea_%28NLW_MS_23203B%2C_35v%29.jpg",
     "licence": "CC0",
     "year": 1897,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
-    "path": "mugshots/1898-chong-ah-heng-cutout.png",
-    "source_title": "File:Chong Ah Heng.jpg",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chong_Ah_Heng.jpg",
-    "licence": "No restrictions",
-    "year": 1898,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "path": "mugshots/1897-william-slack-of-mansfield-nlw-ms-23203b-6r-cutout.png",
+    "source_title": "File:William Slack of Mansfield (NLW MS 23203B, 6r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/William_Slack_of_Mansfield_%28NLW_MS_23203B%2C_6r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1871-richard-rimmington-flickr-tyne-wear-archives-museums-cutout.png",
@@ -63,7 +63,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Richard_Rimmington_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
     "licence": "No restrictions",
     "year": 1871,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1897-james-thompson-nlw-ms-23203b-14r-cutout.png",
@@ -71,7 +71,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/James_Thompson_%28NLW_MS_23203B%2C_14r%29.jpg",
     "licence": "CC0",
     "year": 1897,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1897-charles-harold-southey-nlw-ms-23203b-23r-cutout.png",
@@ -79,7 +79,7 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Charles_Harold_Southey_%28NLW_MS_23203B%2C_23r%29.jpg",
     "licence": "CC0",
     "year": 1897,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   },
   {
     "path": "mugshots/1871-john-park-flickr-tyne-wear-archives-museums-cutout.png",
@@ -87,6 +87,6 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Park_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
     "licence": "No restrictions",
     "year": 1871,
-    "processing": "background removed, set on flat backdrop, padded to frame ratio"
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   }
 ]
