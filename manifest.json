@@ -88,5 +88,21 @@
     "licence": "No restrictions",
     "year": 1871,
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-john-allen-and-james-williams-tailor-of-liverpool-nlw-ms-23203b-12r-cutout.png",
+    "source_title": "File:John Allen and James Williams, tailor of Liverpool (NLW MS 23203B, 12r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/John_Allen_and_James_Williams%2C_tailor_of_Liverpool_%28NLW_MS_23203B%2C_12r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-robert-mellins-middleton-of-shropshire-nlw-ms-23203b-7v-cutout.png",
+    "source_title": "File:Robert Mellins Middleton of Shropshire (NLW MS 23203B, 7v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_Mellins_Middleton_of_Shropshire_%28NLW_MS_23203B%2C_7v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
   }
 ]
