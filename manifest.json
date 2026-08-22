@@ -104,5 +104,75 @@
     "licence": "CC0",
     "year": 1897,
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-john-smythe-painter-nlw-ms-23203b-3r-cutout.png",
+    "source_title": "File:John Smythe, painter (NLW MS 23203B, 3r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/John_Smythe%2C_painter_%28NLW_MS_23203B%2C_3r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "a18160315f1044d104df6bf3821028479fb55dcf0b8e65b36ea95531e2aa2ae1"
+  },
+  {
+    "path": "mugshots/1897-robert-humphreys-labourer-of-aberystwyth-nlw-ms-23203b-7r-cutout.png",
+    "source_title": "File:Robert Humphreys, labourer of Aberystwyth (NLW MS 23203B, 7r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Robert_Humphreys%2C_labourer_of_Aberystwyth_%28NLW_MS_23203B%2C_7r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c86af053cb595a9b89a64172c9c2ba23ebc74df363193f03b0489fce2212aca6"
+  },
+  {
+    "path": "mugshots/1897-james-fisher-pedlar-of-walsall-nlw-ms-23203b-20v-cutout.png",
+    "source_title": "File:James Fisher, pedlar of Walsall (NLW MS 23203B, 20v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/James_Fisher%2C_pedlar_of_Walsall_%28NLW_MS_23203B%2C_20v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "a07e9019500ea4aede1ac992b6a6be31a8a89ef789523ac3632f8d2cc545c481"
+  },
+  {
+    "path": "mugshots/1897-joseph-jones-vagrant-of-carmarthen-nlw-ms-23203b-9v-cutout.png",
+    "source_title": "File:Joseph Jones, vagrant of Carmarthen (NLW MS 23203B, 9v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Joseph_Jones%2C_vagrant_of_Carmarthen_%28NLW_MS_23203B%2C_9v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "877ae5d2cbb94eb3c11a9e5ae3a576f44a0e0a0b28a72067ae79f5b4d23b7c05"
+  },
+  {
+    "path": "mugshots/1897-john-evans-of-chester-nlw-ms-23203b-3v-cutout.png",
+    "source_title": "File:John Evans of Chester (NLW MS 23203B, 3v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/John_Evans_of_Chester_%28NLW_MS_23203B%2C_3v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "dc97f7c2756819a52a592d09c7c8f238699c91a34bc26abd0066acd107354742"
+  },
+  {
+    "path": "mugshots/1897-thomas-bowen-jones-alias-thomas-somerville-nlw-ms-23203b-1v-cutout.png",
+    "source_title": "File:Thomas Bowen Jones alias Thomas Somerville (NLW MS 23203B, 1v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Bowen_Jones_alias_Thomas_Somerville_%28NLW_MS_23203B%2C_1v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "13821275ac63c8470781e3f2ec11a633042e11055c4e9a067c1e2f040d87a030"
+  },
+  {
+    "path": "mugshots/1871-john-thomas-soldier-convicted-of-stealing-slippers-28615751922-cutout.png",
+    "source_title": "File:John Thomas, soldier, convicted of stealing slippers (28615751922).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/John_Thomas%2C_soldier%2C_convicted_of_stealing_slippers_%2828615751922%29.jpg",
+    "licence": "No restrictions",
+    "year": 1871,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "29707b870f58630ffb3b94a352607118084b8f1e2eb51c0f1cbe319bd3ce2097"
   }
 ]
