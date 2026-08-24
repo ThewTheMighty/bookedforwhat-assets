@@ -174,5 +174,25 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "29707b870f58630ffb3b94a352607118084b8f1e2eb51c0f1cbe319bd3ce2097"
+  },
+  {
+    "path": "mugshots/2022-tiffany-haddish-fayette-county-sheriff-s-office-cutout.png",
+    "source_title": "Tiffany Haddish (Fayette County Sheriff's Office)",
+    "source_url": "https://www.wsbtv.com/news/local/fayette-county/actress-tiffany-haddish-charged-with-dui-following-early-morning-traffic-stop/GZI2LCYO4VFINOI6IZPOIC6ULE/",
+    "licence": "Agency booking photo, Fayette County Sheriff's Office",
+    "year": 2022,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "039dc30611e4a7f815f88e1bde9c3ef5184fd42ad3b77d2af641e01eb0066d15"
+  },
+  {
+    "path": "mugshots/1977-bill-gates-albuquerque-police-department-cutout.png",
+    "source_title": "Bill Gates (Albuquerque Police Department)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bill_Gates_mugshot.png",
+    "licence": "Public domain",
+    "year": 1977,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "8bde78d4d62bffbcd624b5387a409b5e73354a5a2c65f64732e06627913de5a8"
   }
 ]
