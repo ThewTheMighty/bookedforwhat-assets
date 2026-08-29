@@ -1,248 +1,318 @@
 [
- {
-  "path": "mugshots/1871-ann-burns.jpg",
-  "source_title": "File:Ann Burns.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ann_Burns.jpg",
-  "licence": "No restrictions",
-  "year": 1871,
-  "categories": [
-   "Mug shots from the Tyne and Wear Archives and Museums"
-  ]
- },
- {
-  "path": "mugshots/1873-elizabeth-stewart-mug-shot-1873-cutout.png",
-  "source_title": "File:Elizabeth Stewart (mug shot, 1873).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Elizabeth_Stewart_%28mug_shot%2C_1873%29.jpg",
-  "licence": "Public domain",
-  "year": 1873,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-john-pritchard-miner-of-talybont-nlw-ms-23203b-20r-cutout.png",
-  "source_title": "File:John Pritchard, miner of Talybont (NLW MS 23203B, 20r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/John_Pritchard%2C_miner_of_Talybont_%28NLW_MS_23203B%2C_20r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1870-joseph-robson-convicted-of-stealing-a-bird-cage-28808967982-cutout.png",
-  "source_title": "File:Joseph Robson, convicted of stealing a bird cage (28808967982).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Joseph_Robson%2C_convicted_of_stealing_a_bird_cage_%2828808967982%29.jpg",
-  "licence": "No restrictions",
-  "year": 1870,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1938-henry-druik-cutout.png",
-  "source_title": "File:Henry Druik.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Henry_Druik.jpg",
-  "licence": "Public domain",
-  "year": 1938,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-john-gordon-cane-chairmender-of-swansea-nlw-ms-23203b-35v-cutout.png",
-  "source_title": "File:John Gordon, cane chairmender of Swansea (NLW MS 23203B, 35v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/John_Gordon%2C_cane_chairmender_of_Swansea_%28NLW_MS_23203B%2C_35v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-william-slack-of-mansfield-nlw-ms-23203b-6r-cutout.png",
-  "source_title": "File:William Slack of Mansfield (NLW MS 23203B, 6r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/William_Slack_of_Mansfield_%28NLW_MS_23203B%2C_6r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1871-richard-rimmington-flickr-tyne-wear-archives-museums-cutout.png",
-  "source_title": "File:Richard Rimmington - Flickr - Tyne & Wear Archives & Museums.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Richard_Rimmington_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
-  "licence": "No restrictions",
-  "year": 1871,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-james-thompson-nlw-ms-23203b-14r-cutout.png",
-  "source_title": "File:James Thompson (NLW MS 23203B, 14r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/James_Thompson_%28NLW_MS_23203B%2C_14r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-charles-harold-southey-nlw-ms-23203b-23r-cutout.png",
-  "source_title": "File:Charles Harold Southey (NLW MS 23203B, 23r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Charles_Harold_Southey_%28NLW_MS_23203B%2C_23r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1871-john-park-flickr-tyne-wear-archives-museums-cutout.png",
-  "source_title": "File:John Park - Flickr - Tyne & Wear Archives & Museums.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Park_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
-  "licence": "No restrictions",
-  "year": 1871,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-john-allen-and-james-williams-tailor-of-liverpool-nlw-ms-23203b-12r-cutout.png",
-  "source_title": "File:John Allen and James Williams, tailor of Liverpool (NLW MS 23203B, 12r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/John_Allen_and_James_Williams%2C_tailor_of_Liverpool_%28NLW_MS_23203B%2C_12r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-robert-mellins-middleton-of-shropshire-nlw-ms-23203b-7v-cutout.png",
-  "source_title": "File:Robert Mellins Middleton of Shropshire (NLW MS 23203B, 7v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_Mellins_Middleton_of_Shropshire_%28NLW_MS_23203B%2C_7v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
- },
- {
-  "path": "mugshots/1897-john-smythe-painter-nlw-ms-23203b-3r-cutout.png",
-  "source_title": "File:John Smythe, painter (NLW MS 23203B, 3r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/John_Smythe%2C_painter_%28NLW_MS_23203B%2C_3r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "a18160315f1044d104df6bf3821028479fb55dcf0b8e65b36ea95531e2aa2ae1"
- },
- {
-  "path": "mugshots/1897-robert-humphreys-labourer-of-aberystwyth-nlw-ms-23203b-7r-cutout.png",
-  "source_title": "File:Robert Humphreys, labourer of Aberystwyth (NLW MS 23203B, 7r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Robert_Humphreys%2C_labourer_of_Aberystwyth_%28NLW_MS_23203B%2C_7r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "c86af053cb595a9b89a64172c9c2ba23ebc74df363193f03b0489fce2212aca6"
- },
- {
-  "path": "mugshots/1897-james-fisher-pedlar-of-walsall-nlw-ms-23203b-20v-cutout.png",
-  "source_title": "File:James Fisher, pedlar of Walsall (NLW MS 23203B, 20v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/James_Fisher%2C_pedlar_of_Walsall_%28NLW_MS_23203B%2C_20v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "a07e9019500ea4aede1ac992b6a6be31a8a89ef789523ac3632f8d2cc545c481"
- },
- {
-  "path": "mugshots/1897-joseph-jones-vagrant-of-carmarthen-nlw-ms-23203b-9v-cutout.png",
-  "source_title": "File:Joseph Jones, vagrant of Carmarthen (NLW MS 23203B, 9v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Joseph_Jones%2C_vagrant_of_Carmarthen_%28NLW_MS_23203B%2C_9v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "877ae5d2cbb94eb3c11a9e5ae3a576f44a0e0a0b28a72067ae79f5b4d23b7c05"
- },
- {
-  "path": "mugshots/1897-john-evans-of-chester-nlw-ms-23203b-3v-cutout.png",
-  "source_title": "File:John Evans of Chester (NLW MS 23203B, 3v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/John_Evans_of_Chester_%28NLW_MS_23203B%2C_3v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "dc97f7c2756819a52a592d09c7c8f238699c91a34bc26abd0066acd107354742"
- },
- {
-  "path": "mugshots/1897-thomas-bowen-jones-alias-thomas-somerville-nlw-ms-23203b-1v-cutout.png",
-  "source_title": "File:Thomas Bowen Jones alias Thomas Somerville (NLW MS 23203B, 1v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Bowen_Jones_alias_Thomas_Somerville_%28NLW_MS_23203B%2C_1v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "13821275ac63c8470781e3f2ec11a633042e11055c4e9a067c1e2f040d87a030"
- },
- {
-  "path": "mugshots/1871-john-thomas-soldier-convicted-of-stealing-slippers-28615751922-cutout.png",
-  "source_title": "File:John Thomas, soldier, convicted of stealing slippers (28615751922).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/John_Thomas%2C_soldier%2C_convicted_of_stealing_slippers_%2828615751922%29.jpg",
-  "licence": "No restrictions",
-  "year": 1871,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "29707b870f58630ffb3b94a352607118084b8f1e2eb51c0f1cbe319bd3ce2097"
- },
- {
-  "path": "mugshots/1977-bill-gates-albuquerque-police-department-cutout.png",
-  "source_title": "Bill Gates (Albuquerque Police Department)",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bill_Gates_mugshot.png",
-  "licence": "Public domain",
-  "year": 1977,
-  "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
-  "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-  "sha256": "8bde78d4d62bffbcd624b5387a409b5e73354a5a2c65f64732e06627913de5a8"
- },
- {
-  "path": "mugshots/1989-zsa-zsa-gabor-beverly-hills-police-department-cutout.png",
-  "source_title": "File:Zsa Zsa Gabor mugshot.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Zsa_Zsa_Gabor_mugshot.jpg",
-  "licence": "Public domain",
-  "year": 1989,
-  "categories": [
-   "Beverly Hills Police Department booking photo"
-  ]
- },
- {
-  "path": "mugshots/1897-george-roberts-labourer-of-aberystwyth-nlw-ms-23203b-21r-cutout.png",
-  "source_title": "File:George Roberts, labourer of Aberystwyth (NLW MS 23203B, 21r).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/George_Roberts%2C_labourer_of_Aberystwyth_%28NLW_MS_23203B%2C_21r%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "categories": [
-   "Mug shots from the National Library of Wales"
-  ]
- },
- {
-  "path": "mugshots/1897-william-brown-nlw-ms-23203b-19v-cutout.png",
-  "source_title": "File:William Brown (NLW MS 23203B, 19v).jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/William_Brown_%28NLW_MS_23203B%2C_19v%29.jpg",
-  "licence": "CC0",
-  "year": 1897,
-  "categories": [
-   "Mug shots from the National Library of Wales"
-  ]
- },
- {
-  "path": "mugshots/2017-tiger-woods-palm-beach-county-sheriffs-office-cutout.png",
-  "source_title": "File:Tiger Woods, arrest photo, May 2017.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tiger_Woods%2C_arrest_photo%2C_May_2017.jpg",
-  "licence": "Public domain",
-  "year": 2017,
-  "categories": [
-   "Palm Beach County Sheriff's Office booking photo"
-  ]
- },
- {
-  "path": "mugshots/1972-steve-mcqueen-anchorage-alaska-cutout.png",
-  "source_title": "File:Steve McQueen.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Steve_McQueen.jpg",
-  "licence": "Public domain",
-  "year": 1972,
-  "categories": [
-   "Anchorage, Alaska booking photo"
-  ]
- },
- {
-  "path": "mugshots/1971-larry-king-dade-county-public-safety-department-cutout.png",
-  "source_title": "File:Larry King mug shot.jpg",
-  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Larry_King_mug_shot.jpg",
-  "licence": "Public domain",
-  "year": 1971,
-  "categories": [
-   "Dade County Public Safety Department booking photo"
-  ]
- }
+  {
+    "path": "mugshots/1871-ann-burns.jpg",
+    "source_title": "File:Ann Burns.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ann_Burns.jpg",
+    "licence": "No restrictions",
+    "year": 1871,
+    "categories": [
+      "Mug shots from the Tyne and Wear Archives and Museums"
+    ]
+  },
+  {
+    "path": "mugshots/1873-elizabeth-stewart-mug-shot-1873-cutout.png",
+    "source_title": "File:Elizabeth Stewart (mug shot, 1873).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Elizabeth_Stewart_%28mug_shot%2C_1873%29.jpg",
+    "licence": "Public domain",
+    "year": 1873,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-john-pritchard-miner-of-talybont-nlw-ms-23203b-20r-cutout.png",
+    "source_title": "File:John Pritchard, miner of Talybont (NLW MS 23203B, 20r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/John_Pritchard%2C_miner_of_Talybont_%28NLW_MS_23203B%2C_20r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1870-joseph-robson-convicted-of-stealing-a-bird-cage-28808967982-cutout.png",
+    "source_title": "File:Joseph Robson, convicted of stealing a bird cage (28808967982).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Joseph_Robson%2C_convicted_of_stealing_a_bird_cage_%2828808967982%29.jpg",
+    "licence": "No restrictions",
+    "year": 1870,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1938-henry-druik-cutout.png",
+    "source_title": "File:Henry Druik.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Henry_Druik.jpg",
+    "licence": "Public domain",
+    "year": 1938,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-john-gordon-cane-chairmender-of-swansea-nlw-ms-23203b-35v-cutout.png",
+    "source_title": "File:John Gordon, cane chairmender of Swansea (NLW MS 23203B, 35v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/John_Gordon%2C_cane_chairmender_of_Swansea_%28NLW_MS_23203B%2C_35v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-william-slack-of-mansfield-nlw-ms-23203b-6r-cutout.png",
+    "source_title": "File:William Slack of Mansfield (NLW MS 23203B, 6r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/William_Slack_of_Mansfield_%28NLW_MS_23203B%2C_6r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1871-richard-rimmington-flickr-tyne-wear-archives-museums-cutout.png",
+    "source_title": "File:Richard Rimmington - Flickr - Tyne & Wear Archives & Museums.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Richard_Rimmington_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
+    "licence": "No restrictions",
+    "year": 1871,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-james-thompson-nlw-ms-23203b-14r-cutout.png",
+    "source_title": "File:James Thompson (NLW MS 23203B, 14r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/James_Thompson_%28NLW_MS_23203B%2C_14r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-charles-harold-southey-nlw-ms-23203b-23r-cutout.png",
+    "source_title": "File:Charles Harold Southey (NLW MS 23203B, 23r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Charles_Harold_Southey_%28NLW_MS_23203B%2C_23r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1871-john-park-flickr-tyne-wear-archives-museums-cutout.png",
+    "source_title": "File:John Park - Flickr - Tyne & Wear Archives & Museums.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/John_Park_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
+    "licence": "No restrictions",
+    "year": 1871,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-john-allen-and-james-williams-tailor-of-liverpool-nlw-ms-23203b-12r-cutout.png",
+    "source_title": "File:John Allen and James Williams, tailor of Liverpool (NLW MS 23203B, 12r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/John_Allen_and_James_Williams%2C_tailor_of_Liverpool_%28NLW_MS_23203B%2C_12r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-robert-mellins-middleton-of-shropshire-nlw-ms-23203b-7v-cutout.png",
+    "source_title": "File:Robert Mellins Middleton of Shropshire (NLW MS 23203B, 7v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_Mellins_Middleton_of_Shropshire_%28NLW_MS_23203B%2C_7v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact"
+  },
+  {
+    "path": "mugshots/1897-john-smythe-painter-nlw-ms-23203b-3r-cutout.png",
+    "source_title": "File:John Smythe, painter (NLW MS 23203B, 3r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/John_Smythe%2C_painter_%28NLW_MS_23203B%2C_3r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "a18160315f1044d104df6bf3821028479fb55dcf0b8e65b36ea95531e2aa2ae1"
+  },
+  {
+    "path": "mugshots/1897-robert-humphreys-labourer-of-aberystwyth-nlw-ms-23203b-7r-cutout.png",
+    "source_title": "File:Robert Humphreys, labourer of Aberystwyth (NLW MS 23203B, 7r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Robert_Humphreys%2C_labourer_of_Aberystwyth_%28NLW_MS_23203B%2C_7r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c86af053cb595a9b89a64172c9c2ba23ebc74df363193f03b0489fce2212aca6"
+  },
+  {
+    "path": "mugshots/1897-james-fisher-pedlar-of-walsall-nlw-ms-23203b-20v-cutout.png",
+    "source_title": "File:James Fisher, pedlar of Walsall (NLW MS 23203B, 20v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/James_Fisher%2C_pedlar_of_Walsall_%28NLW_MS_23203B%2C_20v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "a07e9019500ea4aede1ac992b6a6be31a8a89ef789523ac3632f8d2cc545c481"
+  },
+  {
+    "path": "mugshots/1897-joseph-jones-vagrant-of-carmarthen-nlw-ms-23203b-9v-cutout.png",
+    "source_title": "File:Joseph Jones, vagrant of Carmarthen (NLW MS 23203B, 9v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Joseph_Jones%2C_vagrant_of_Carmarthen_%28NLW_MS_23203B%2C_9v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "877ae5d2cbb94eb3c11a9e5ae3a576f44a0e0a0b28a72067ae79f5b4d23b7c05"
+  },
+  {
+    "path": "mugshots/1897-john-evans-of-chester-nlw-ms-23203b-3v-cutout.png",
+    "source_title": "File:John Evans of Chester (NLW MS 23203B, 3v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/John_Evans_of_Chester_%28NLW_MS_23203B%2C_3v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "dc97f7c2756819a52a592d09c7c8f238699c91a34bc26abd0066acd107354742"
+  },
+  {
+    "path": "mugshots/1897-thomas-bowen-jones-alias-thomas-somerville-nlw-ms-23203b-1v-cutout.png",
+    "source_title": "File:Thomas Bowen Jones alias Thomas Somerville (NLW MS 23203B, 1v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Bowen_Jones_alias_Thomas_Somerville_%28NLW_MS_23203B%2C_1v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "13821275ac63c8470781e3f2ec11a633042e11055c4e9a067c1e2f040d87a030"
+  },
+  {
+    "path": "mugshots/1871-john-thomas-soldier-convicted-of-stealing-slippers-28615751922-cutout.png",
+    "source_title": "File:John Thomas, soldier, convicted of stealing slippers (28615751922).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/John_Thomas%2C_soldier%2C_convicted_of_stealing_slippers_%2828615751922%29.jpg",
+    "licence": "No restrictions",
+    "year": 1871,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "29707b870f58630ffb3b94a352607118084b8f1e2eb51c0f1cbe319bd3ce2097"
+  },
+  {
+    "path": "mugshots/1977-bill-gates-albuquerque-police-department-cutout.png",
+    "source_title": "Bill Gates (Albuquerque Police Department)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bill_Gates_mugshot.png",
+    "licence": "Public domain",
+    "year": 1977,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "8bde78d4d62bffbcd624b5387a409b5e73354a5a2c65f64732e06627913de5a8"
+  },
+  {
+    "path": "mugshots/1989-zsa-zsa-gabor-beverly-hills-police-department-cutout.png",
+    "source_title": "File:Zsa Zsa Gabor mugshot.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Zsa_Zsa_Gabor_mugshot.jpg",
+    "licence": "Public domain",
+    "year": 1989,
+    "categories": [
+      "Beverly Hills Police Department booking photo"
+    ]
+  },
+  {
+    "path": "mugshots/1897-george-roberts-labourer-of-aberystwyth-nlw-ms-23203b-21r-cutout.png",
+    "source_title": "File:George Roberts, labourer of Aberystwyth (NLW MS 23203B, 21r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/George_Roberts%2C_labourer_of_Aberystwyth_%28NLW_MS_23203B%2C_21r%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "categories": [
+      "Mug shots from the National Library of Wales"
+    ]
+  },
+  {
+    "path": "mugshots/1897-william-brown-nlw-ms-23203b-19v-cutout.png",
+    "source_title": "File:William Brown (NLW MS 23203B, 19v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/William_Brown_%28NLW_MS_23203B%2C_19v%29.jpg",
+    "licence": "CC0",
+    "year": 1897,
+    "categories": [
+      "Mug shots from the National Library of Wales"
+    ]
+  },
+  {
+    "path": "mugshots/2017-tiger-woods-palm-beach-county-sheriffs-office-cutout.png",
+    "source_title": "File:Tiger Woods, arrest photo, May 2017.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tiger_Woods%2C_arrest_photo%2C_May_2017.jpg",
+    "licence": "Public domain",
+    "year": 2017,
+    "categories": [
+      "Palm Beach County Sheriff's Office booking photo"
+    ]
+  },
+  {
+    "path": "mugshots/1972-steve-mcqueen-anchorage-alaska-cutout.png",
+    "source_title": "File:Steve McQueen.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Steve_McQueen.jpg",
+    "licence": "Public domain",
+    "year": 1972,
+    "categories": [
+      "Anchorage, Alaska booking photo"
+    ]
+  },
+  {
+    "path": "mugshots/1971-larry-king-dade-county-public-safety-department-cutout.png",
+    "source_title": "File:Larry King mug shot.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Larry_King_mug_shot.jpg",
+    "licence": "Public domain",
+    "year": 1971,
+    "categories": [
+      "Dade County Public Safety Department booking photo"
+    ]
+  },
+  {
+    "path": "mugshots/1942-fleurette-dubois-cutout.png",
+    "source_title": "File:Fleurette Dubois.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fleurette_Dubois.jpg",
+    "licence": "Public domain",
+    "year": 1942,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "09c5417d85062067fefaac3c4b44fdad6d8d9e16d24b6711a8e2f4999c6313f1"
+  },
+  {
+    "path": "mugshots/2020-dababy-miami-police-department-cutout.png",
+    "source_title": "DaBaby (Miami Police Department)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/DaBaby-Mugshot-from-Miami.jpg",
+    "licence": "Public domain",
+    "year": 2020,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "3871f520bcbba95c81edc70b8d93e7eb9e6579f79e502814c29e2dcf7adcaa52"
+  },
+  {
+    "path": "mugshots/1897-1933-albert-ashley-hanton-photographer-of-liverpool-nlw-ms-23203b-28v-cutout.png",
+    "source_title": "File:Albert Ashley Hanton, photographer of Liverpool (NLW MS 23203B, 28v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Albert_Ashley_Hanton%2C_photographer_of_Liverpool_%28NLW_MS_23203B%2C_28v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "7b25100e218eea807af31fce66e55fee513424b4b40c133d9ce1c685f81fe8e9"
+  },
+  {
+    "path": "mugshots/1924-crosswhite-milton-p-inmate-26566-msa-6106449479-cutout.png",
+    "source_title": "File:Crosswhite, Milton P. Inmate -26566 (MSA) (6106449479).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Crosswhite%2C_Milton_P._Inmate_-26566_%28MSA%29_%286106449479%29.jpg",
+    "licence": "No restrictions",
+    "year": 1924,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "fb279d67850afba9ccea2cb752ad75e0d26f4572c70d6e0d5d6b84fbd10b5e83"
+  },
+  {
+    "path": "mugshots/1897-1933-john-jones-labourer-of-llanrwst-nlw-ms-23203b-34r-cutout.png",
+    "source_title": "File:John Jones, labourer of Llanrwst (NLW MS 23203B, 34r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/John_Jones%2C_labourer_of_Llanrwst_%28NLW_MS_23203B%2C_34r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "10932bdcf5338cad3afde844371d1e2fd372214fe9873ec757ed210fb441bdcf"
+  },
+  {
+    "path": "mugshots/2012-hopsin-orlando-police-department-cutout.png",
+    "source_title": "Hopsin (Orlando Police Department)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Hopsin_mugshot_2012-8-26.jpg",
+    "licence": "Public domain",
+    "year": 2012,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "641fb29148d6480b24347bf417e757cf03be1440bf853cdaf5fb8a9ba1f40258"
+  },
+  {
+    "path": "mugshots/1897-1933-edgar-bertie-whiles-nlw-ms-23203b-17v-cutout.png",
+    "source_title": "File:Edgar Bertie Whiles (NLW MS 23203B, 17v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Edgar_Bertie_Whiles_%28NLW_MS_23203B%2C_17v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "e0c118002bdabcbbed020d7bdc40db036a730c92998906340159e07fdce2739f"
+  }
 ]
