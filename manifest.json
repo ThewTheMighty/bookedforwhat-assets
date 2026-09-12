@@ -334,5 +334,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "256e2b3ca531154fd2e463f94e6f2c7bc149ddce60ad196e2d1af23225f4b41c"
+  },
+  {
+    "path": "mugshots/1873-margaret-hutcheson-or-stewart-cutout.png",
+    "source_title": "File:Margaret Hutcheson or Stewart.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Margaret_Hutcheson_or_Stewart.jpg",
+    "licence": "Public domain",
+    "year": 1873,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "683b2920cbf1a75f13f91ec1648274033f146861b5f1159ab292ac5c2efc4c69"
+  },
+  {
+    "path": "mugshots/1897-1933-david-jenkings-labourer-of-taliesin-nlw-ms-23203b-38v-cutout.png",
+    "source_title": "File:David Jenkings, labourer of Taliesin (NLW MS 23203B, 38v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/David_Jenkings%2C_labourer_of_Taliesin_%28NLW_MS_23203B%2C_38v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "e16afe34140852c2e116309032447b5555b05b8d1c11db4f63abd66fb5581743"
+  },
+  {
+    "path": "mugshots/2014-justin-bieber-miami-dade-corrections-and-rehabilitation-cutout.png",
+    "source_title": "Justin Bieber (Miami-Dade Corrections and Rehabilitation)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Justin_Bieber_mugshot%2C_front.jpg",
+    "licence": "Public domain",
+    "year": 2014,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "899891698f708a984ebb74a8acec18e01a9bb558c8259d56898e60949e16c4cf"
+  },
+  {
+    "path": "mugshots/1963-jim-morrison-tallahassee-police-department-cutout.png",
+    "source_title": "Jim Morrison (Tallahassee Police Department)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Jim_Morrison_%281963%29.jpg",
+    "licence": "Public domain",
+    "year": 1963,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "b5862306efde4a3b7c3391911d24d2921bc683316677aa6660bb0aa27a511001"
+  },
+  {
+    "path": "mugshots/1940-jeanine-lebrun-cutout.png",
+    "source_title": "File:Jeanine Lebrun.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jeanine_Lebrun.jpg",
+    "licence": "Public domain",
+    "year": 1940,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "23f54e0bd56108ccab35387d4bbdcb14fbdf0d8395fdbe2f5416495f893032ed"
+  },
+  {
+    "path": "mugshots/1897-1933-george-taylor-of-wigan-nlw-ms-23203b-9v-cutout.png",
+    "source_title": "File:George Taylor of Wigan (NLW MS 23203B, 9v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/George_Taylor_of_Wigan_%28NLW_MS_23203B%2C_9v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "48e2832deeceddbdb7f801a9faade7cea4498b60c0abcde6450e6b4074580928"
+  },
+  {
+    "path": "mugshots/2008-wesley-snipes-united-states-marshals-service-cutout.png",
+    "source_title": "Wesley Snipes (United States Marshals Service)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wesley_Snipes_mug_shot.jpg",
+    "licence": "Public domain",
+    "year": 2008,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "6ee776d7a457030157257350e2788171dc6398ce1f0e2be4adc55c498f3a67c3"
   }
 ]
