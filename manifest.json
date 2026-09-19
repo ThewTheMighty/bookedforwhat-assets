@@ -407,13 +407,14 @@
   },
   {
     "path": "mugshots/1995-hugh-grant-los-angeles-county-sheriff-s-department-cutout.png",
-    "source_title": "Hugh Grant (Los Angeles County Sheriff's Department)",
+    "source_title": "Hugh Grant (Los Angeles Police Department, Hollywood Division)",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hugh-grant-mugshot.jpg",
     "licence": "Public domain",
     "year": 1995,
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
-    "sha256": "da2074ebc0cde4ffa06024965f92dbdb12bb056e6fbc6ed274a82e71df0a5df2"
+    "sha256": "da2074ebc0cde4ffa06024965f92dbdb12bb056e6fbc6ed274a82e71df0a5df2",
+    "note": "Commons credits the Los Angeles County Sheriff's Department. The booking board in the photograph reads LOS ANGELES POLICE: HWD, so the plate wins and the releasing agency is the LAPD's Hollywood Division. The filename was written from the Commons credit before the plate was read and is left alone: it is a URL, not a claim."
   },
   {
     "path": "mugshots/1897-1933-benjamin-davies-hawker-nlw-ms-23203b-2r-cutout.png",
