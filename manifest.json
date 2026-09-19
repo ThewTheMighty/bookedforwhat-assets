@@ -404,5 +404,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "6ee776d7a457030157257350e2788171dc6398ce1f0e2be4adc55c498f3a67c3"
+  },
+  {
+    "path": "mugshots/1995-hugh-grant-los-angeles-county-sheriff-s-department-cutout.png",
+    "source_title": "Hugh Grant (Los Angeles County Sheriff's Department)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hugh-grant-mugshot.jpg",
+    "licence": "Public domain",
+    "year": 1995,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "da2074ebc0cde4ffa06024965f92dbdb12bb056e6fbc6ed274a82e71df0a5df2"
+  },
+  {
+    "path": "mugshots/1897-1933-benjamin-davies-hawker-nlw-ms-23203b-2r-cutout.png",
+    "source_title": "File:Benjamin Davies, Hawker (NLW MS 23203B, 2r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Benjamin_Davies%2C_Hawker_%28NLW_MS_23203B%2C_2r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "b806f5b272fa76659dc6a1fc76971acdb45a1bcaed2989d00a8cfb8d2578b110"
+  },
+  {
+    "path": "mugshots/1951-lenny-bruce-miami-beach-police-department-cutout.png",
+    "source_title": "Lenny Bruce (Miami Beach Police Department)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lenny_Bruce_mugshot_1951.jpg",
+    "licence": "Public domain",
+    "year": 1951,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c32297c029aec72608ff62fb01af25bb91e6551c6ecedfb89062be01e09cfcde"
+  },
+  {
+    "path": "mugshots/1897-1933-isaas-james-labourer-of-penrhyncoch-nlw-ms-23203b-32v-cutout.png",
+    "source_title": "File:Isaas James, labourer of Penrhyncoch (NLW MS 23203B, 32v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Isaas_James%2C_labourer_of_Penrhyncoch_%28NLW_MS_23203B%2C_32v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "020b317c45a54a55dd47cf3993a0b92eb5195f7bd130c519197b74ca5a7470a3"
+  },
+  {
+    "path": "mugshots/1947-billie-holiday-federal-bureau-of-prisons-cutout.png",
+    "source_title": "Billie Holiday (Federal Bureau of Prisons)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Billie_Holiday_mug_shot.jpg",
+    "licence": "Public domain",
+    "year": 1947,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "ce6fc109bd27d33aab16e535495fc2882885aac5ee086d3138cd86f93d1f8bbb"
+  },
+  {
+    "path": "mugshots/1869-jane-wotherspoon-mcintyre-cutout.png",
+    "source_title": "File:Jane Wotherspoon @ McIntyre.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jane_Wotherspoon_%40_McIntyre.jpg",
+    "licence": "Public domain",
+    "year": 1869,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "aa4d154e13a77d85d6faf07c5d48a2d403f46c58e744d1b0016d69c685cf6870"
+  },
+  {
+    "path": "mugshots/1897-1933-margaret-thomas-of-aberllefeni-nlw-ms-23203b-16r-cutout.png",
+    "source_title": "File:Margaret Thomas of Aberllefeni (NLW MS 23203B, 16r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Margaret_Thomas_of_Aberllefeni_%28NLW_MS_23203B%2C_16r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "f295d10c72b3a1dd5d25bb7b9fe7f4cd2d157091f343ebbe906c6ced4fc71724"
   }
 ]
