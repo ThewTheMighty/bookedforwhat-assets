@@ -475,5 +475,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "f295d10c72b3a1dd5d25bb7b9fe7f4cd2d157091f343ebbe906c6ced4fc71724"
+  },
+  {
+    "path": "mugshots/1901-james-donovan-mug-shot-cutout.png",
+    "source_title": "File:James Donovan (mug shot).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/James_Donovan_%28mug_shot%29.jpg",
+    "licence": "Public domain",
+    "year": 1901,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c22d598d84b8bfd16c6ca921f1af0eae052d393110e66b130c84f31bd62593f9"
+  },
+  {
+    "path": "mugshots/1897-1933-evan-lewis-labourer-of-talybont-nlw-ms-23203b-14v-cutout.png",
+    "source_title": "File:Evan Lewis, labourer of Talybont (NLW MS 23203B, 14v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Evan_Lewis%2C_labourer_of_Talybont_%28NLW_MS_23203B%2C_14v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "65ebb57ea8c95f5b9a7ed8c10f458ab68457276276abbabde75eb3b22c9f0500"
+  },
+  {
+    "path": "mugshots/2024-travis-scott-miami-dade-sheriff-s-office-cutout.png",
+    "source_title": "Travis Scott (Miami-Dade Sheriff's Office)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Travis_Scott_mugshot_%282024%29.jpg",
+    "licence": "Public domain",
+    "year": 2024,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "b8818c59c9f4476a7f8986bca98c3102325f8e38b876885d200e19c870661dcb"
+  },
+  {
+    "path": "mugshots/2015-vanilla-ice-palm-beach-county-sheriff-s-office-cutout.png",
+    "source_title": "Vanilla Ice (Palm Beach County Sheriff's Office)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Floridian_mugshot_of_Vanilla_Ice.jpg",
+    "licence": "Public domain",
+    "year": 2015,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "6c9c39723912bf44e4f9aa131e12f0f11cf04cec2ce043f0620d2eb0c41e1d07"
+  },
+  {
+    "path": "mugshots/1941-lina-tony-cutout.png",
+    "source_title": "File:Lina Tony.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lina_Tony.jpg",
+    "licence": "Public domain",
+    "year": 1941,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "d75066de91f2c541f6f54c0efa85b7f8380135ca27f93622e6a0345887753d9c"
+  },
+  {
+    "path": "mugshots/1897-1933-john-collard-of-yeovil-somerset-nlw-ms-23203b-8v-cutout.png",
+    "source_title": "File:John Collard of Yeovil, Somerset (NLW MS 23203B, 8v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/John_Collard_of_Yeovil%2C_Somerset_%28NLW_MS_23203B%2C_8v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "0ab35f6029605a25f42c248d31357f0e3caf8f878771cb9911ea9e8d0f05fca7"
+  },
+  {
+    "path": "mugshots/1960-willie-nelson-pasadena-police-department-texas-cutout.png",
+    "source_title": "Willie Nelson (Pasadena Police Department, Texas)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Willie_Nelson_Mugshot_1960.jpg",
+    "licence": "Public domain",
+    "year": 1960,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "cc2019d8f67f639275eda31621ebe5cfaa7fd94834629be4d16cfe239cb9de23"
   }
 ]
