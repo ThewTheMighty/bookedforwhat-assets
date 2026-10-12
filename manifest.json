@@ -545,5 +545,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "cc2019d8f67f639275eda31621ebe5cfaa7fd94834629be4d16cfe239cb9de23"
+  },
+  {
+    "path": "mugshots/2010-bruno-mars-las-vegas-metropolitan-police-department-cutout.png",
+    "source_title": "Bruno Mars (Las Vegas Metropolitan Police Department)",
+    "source_url": "https://media.lasvegassun.com/media/img/photos/2010/09/20/hernandez.jpg",
+    "licence": "Public record (agency release)",
+    "year": 2010,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "laptop, 2026-10-12 (Wikimedia reachable from here)",
+    "sha256": "ac530b32c9bad3cf08eba1c9cdce8abee17c369ff565bf745582515e471ae22c"
+  },
+  {
+    "path": "mugshots/1897-1933-john-wilson-painter-of-bolton-nlw-ms-23203b-17v-cutout.png",
+    "source_title": "File:John Wilson, painter of Bolton (NLW MS 23203B, 17v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Wilson%2C_painter_of_Bolton_%28NLW_MS_23203B%2C_17v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "282bde71901b427290a092133e56fc0fe9b49f11f6eef2001a768a4a8e247249"
+  },
+  {
+    "path": "mugshots/1897-1933-albert-aldridge-labourer-of-stroud-nlw-ms-23203b-41r-cutout.png",
+    "source_title": "File:Albert Aldridge, labourer of Stroud (NLW MS 23203B, 41r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Albert_Aldridge%2C_labourer_of_Stroud_%28NLW_MS_23203B%2C_41r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "7199f657b24fbd0841f511de071814425dac51e4fe5f7e77fec21a6164ce84e9"
+  },
+  {
+    "path": "mugshots/1897-1933-john-morgan-tailor-of-bristol-nlw-ms-23203b-10r-cutout.png",
+    "source_title": "File:John Morgan, tailor of Bristol (NLW MS 23203B, 10r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/John_Morgan%2C_tailor_of_Bristol_%28NLW_MS_23203B%2C_10r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "732e4ed919e83e432bb54b0e96ba3406fc0e86b17bee56758a16e78095ef7404"
+  },
+  {
+    "path": "mugshots/1965-johnny-cash-el-paso-county-sheriff-s-department-texas-cutout.png",
+    "source_title": "Johnny Cash (El Paso County Sheriff's Department, Texas)",
+    "source_url": "https://www.thesmokinggun.com/sites/default/files/photos/jcashmug1.jpg",
+    "licence": "Public record (agency booking photograph)",
+    "year": 1965,
+    "processing": "front view cropped by hand from the LEFT of the dual plate (this plate is profile-right, the reverse of the register sheets); padded to frame ratio; background left intact",
+    "prepared_on": "laptop, 2026-10-12 (Wikimedia reachable from here)",
+    "sha256": "593c8af6d41bfc5f4bba92c13c5a299aea881fed5e1c1aee71a410d2095f27fb"
+  },
+  {
+    "path": "mugshots/1897-1933-john-jones-farmers-son-of-llangurig-nlw-ms-23203b-19r-cutout.png",
+    "source_title": "File:John Jones farmers son of Llangurig (NLW MS 23203B, 19r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/John_Jones_farmers_son_of_Llangurig_%28NLW_MS_23203B%2C_19r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "e81d4b38d7a2e5a196d7a7bd0d58a3be9cf4cda9e3930fc67b82fa9d032ade9e"
+  },
+  {
+    "path": "mugshots/1870-isabella-mclaren-or-sievewright-the-butterfly-cutout.png",
+    "source_title": "File:Isabella McLaren or Sievewright @The Butterfly.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Isabella_McLaren_or_Sievewright_%40The_Butterfly.jpg",
+    "licence": "Public domain",
+    "year": 1870,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "laptop, 2026-10-12 (Wikimedia reachable from here)",
+    "sha256": "b056683942774c0dcd1b202e53ef1ebfc566e314babf461a019ce0d418462ed7"
   }
 ]
