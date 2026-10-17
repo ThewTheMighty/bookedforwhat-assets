@@ -615,5 +615,55 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "laptop, 2026-10-12 (Wikimedia reachable from here)",
     "sha256": "b056683942774c0dcd1b202e53ef1ebfc566e314babf461a019ce0d418462ed7"
+  },
+  {
+    "path": "mugshots/1941-gisele-roy-alias-marie-jeanne-lambert-cutout.png",
+    "source_title": "File:Gisele Roy, alias Marie-Jeanne Lambert.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gisele_Roy%2C_alias_Marie-Jeanne_Lambert.jpg",
+    "licence": "Public domain",
+    "year": 1941,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "47210b964a59ae65489b9bf243c6b2a14dbc5676f36821a5f54bd2483b9d4957"
+  },
+  {
+    "path": "mugshots/1897-1933-frederick-young-fitters-labourer-of-highwycombe-nlw-ms-23203b-30r-cutout.png",
+    "source_title": "File:Frederick Young, fitters labourer of Highwycombe (NLW MS 23203B, 30r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Frederick_Young%2C_fitters_labourer_of_Highwycombe_%28NLW_MS_23203B%2C_30r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "3f56c9de8c13bdd016aff9b9978c1dff73e9d0e4bfc34ac6063eab10452e10fe"
+  },
+  {
+    "path": "mugshots/2014-tyler-the-creator-austin-police-department-texas-cutout.png",
+    "source_title": "Tyler, the Creator (Austin Police Department, Texas)",
+    "source_url": "https://raw.githubusercontent.com/ThewTheMighty/bookedforwhat-assets/main/mugshots/source-tyler-the-creator-2014-precrop.png",
+    "licence": "Public record (agency release)",
+    "year": 2014,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "7c2944c7c5759ddac2835c0e536dbf66e98a4436e504bc4ff33c02b9caa125e8"
+  },
+  {
+    "path": "mugshots/1897-1933-robert-humphreys-labourer-of-aberystwyth-nlw-ms-23203b-19v-cutout.png",
+    "source_title": "File:Robert Humphreys, labourer of Aberystwyth (NLW MS 23203B, 19v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Robert_Humphreys%2C_labourer_of_Aberystwyth_%28NLW_MS_23203B%2C_19v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "ab1900bab80823515baafa61072eace9156ca8869b2f6428f702a24623ebb924"
+  },
+  {
+    "path": "mugshots/1938-frank-sinatra-bergen-county-sheriff-s-office-new-jersey-cutout.png",
+    "source_title": "Frank Sinatra (Bergen County Sheriff's Office, New Jersey)",
+    "source_url": "https://pulpinternational.com/images/postimg/unhappy_tune_01.jpg",
+    "licence": "Public record (agency booking photograph, 1938)",
+    "year": 1938,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "806445ce7f5f4eb450d5562cfd244ad25be286f630bd2e8f380c595a924ec328"
   }
 ]
