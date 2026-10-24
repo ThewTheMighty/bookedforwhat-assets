@@ -665,5 +665,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "806445ce7f5f4eb450d5562cfd244ad25be286f630bd2e8f380c595a924ec328"
+  },
+  {
+    "path": "mugshots/1976-david-bowie-rochester-police-department-new-york-cutout.png",
+    "source_title": "David Bowie (Rochester Police Department, New York)",
+    "source_url": "https://cdn8.openculture.com/wp-content/uploads/2013/08/bowie-mug-shot.jpg",
+    "licence": "Public record (agency booking photograph, 1976)",
+    "year": 1976,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "a2e064db4727a32eaebd578a51d99dd684379596e61b7132ef123dcc3f4f4d8d"
+  },
+  {
+    "path": "mugshots/1897-1933-george-bennett-alias-marriott-wandsworth-labourer-of-surrey-nlw-ms-232-cutout.png",
+    "source_title": "File:George Bennett alias Marriott Wandsworth, labourer of Surrey (NLW MS 23203B, 8r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/George_Bennett_alias_Marriott_Wandsworth%2C_labourer_of_Surrey_%28NLW_MS_23203B%2C_8r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "5179475125ff0f063fb607ba47c5a1cfd431394638f07162faf05eee8f490282"
+  },
+  {
+    "path": "mugshots/1897-1933-benjamin-richards-militiaman-of-queen-st-ton-pentre-nlw-ms-23203b-15r-cutout.png",
+    "source_title": "File:Benjamin Richards, militiaman of Queen St, Ton Pentre (NLW MS 23203B, 15r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Benjamin_Richards%2C_militiaman_of_Queen_St%2C_Ton_Pentre_%28NLW_MS_23203B%2C_15r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "1b4ba58d3aa20e5eb2eda1b727734897b777e82cfca5dedd52c415d3c3260f5f"
+  },
+  {
+    "path": "mugshots/1897-1933-henry-williams-alias-joseph-higgins-nlw-ms-23203b-5v-cutout.png",
+    "source_title": "File:Henry Williams alias Joseph Higgins (NLW MS 23203B, 5v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Henry_Williams_alias_Joseph_Higgins_%28NLW_MS_23203B%2C_5v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "d10021d7326bf3852274841b000028b84265c1dfa2c9119bd987140d4262f2c1"
+  },
+  {
+    "path": "mugshots/1970-jane-fonda-sheriff-s-department-cleveland-ohio-cutout.png",
+    "source_title": "Jane Fonda (Sheriff's Department, Cleveland, Ohio)",
+    "source_url": "https://raw.githubusercontent.com/ThewTheMighty/bookedforwhat-assets/main/mugshots/source-jane-fonda-1970-precrop.png",
+    "licence": "Public record (agency booking photograph, 1970)",
+    "year": 1970,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "8837088bf3f037edc712f59f4ff683d81884d3a13576b294c277abb04ab136d8"
+  },
+  {
+    "path": "mugshots/1897-1933-samuel-davies-militiaman-nlw-ms-23203b-13r-cutout.png",
+    "source_title": "File:Samuel Davies, Militiaman (NLW MS 23203B, 13r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Samuel_Davies%2C_Militiaman_%28NLW_MS_23203B%2C_13r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "f9f8c72e80058f8010cc8a0e933f22a0de180709910e759070c5fe9f507194ce"
+  },
+  {
+    "path": "mugshots/1897-1933-charles-jones-baker-of-sydney-new-south-wales-nlw-ms-23203b-38r-cutout.png",
+    "source_title": "File:Charles Jones, baker of Sydney, New South Wales (NLW MS 23203B, 38r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Charles_Jones%2C_baker_of_Sydney%2C_New_South_Wales_%28NLW_MS_23203B%2C_38r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "01ecff2c3b54269dbeab16cbc504caa096fe2b9a24a0836239ae49a690c32b3f"
   }
 ]
