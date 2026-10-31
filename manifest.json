@@ -795,5 +795,15 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "953f307091201d484b006e6a7e8a07997dc3599d8ae65483d7fca4b65da1dcaf"
+  },
+  {
+    "path": "mugshots/1941-1943-marguerite-smith-cutout.png",
+    "source_title": "File:Marguerite Smith.jpg",
+    "source_url": "https://raw.githubusercontent.com/ThewTheMighty/bookedforwhat-assets/main/mugshots/source-marguerite-smith-1941-1943-precrop.png",
+    "licence": "Public domain",
+    "year": "1941-1943",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "6c2270731abaebf7a9c2c7c6f77b176cc9bd846a8126f2ebd0968003172d660f"
   }
 ]
