@@ -735,5 +735,65 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "01ecff2c3b54269dbeab16cbc504caa096fe2b9a24a0836239ae49a690c32b3f"
+  },
+  {
+    "path": "mugshots/1969-jimi-hendrix-metropolitan-toronto-police-cutout.png",
+    "source_title": "Jimi Hendrix (Metropolitan Toronto Police)",
+    "source_url": "https://raw.githubusercontent.com/ThewTheMighty/bookedforwhat-assets/main/mugshots/source-jimi-hendrix-1969-precrop.png",
+    "licence": "Public record (agency booking photograph, 1969)",
+    "year": 1969,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "40b8e7958f77563e9b83892fa0b37b0fcf432399035338ba58ef2c183fd2603b"
+  },
+  {
+    "path": "mugshots/2008-charles-barkley-gilbert-police-department-arizona-cutout.png",
+    "source_title": "Charles Barkley (Gilbert Police Department, Arizona)",
+    "source_url": "https://raw.githubusercontent.com/ThewTheMighty/bookedforwhat-assets/main/mugshots/source-charles-barkley-2008.png",
+    "licence": "Public record (agency booking photograph, 2008)",
+    "year": 2008,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "fc77d48885116fa0da010b9ff4e1302cc9f51f23aab57e982936a6a79fa7565c"
+  },
+  {
+    "path": "mugshots/1897-1933-mary-currie-carmarthen-nlw-ms-23203b-6v-cutout.png",
+    "source_title": "File:Mary Currie, Carmarthen (NLW MS 23203B, 6v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mary_Currie%2C_Carmarthen_%28NLW_MS_23203B%2C_6v%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "8b4c3fb860fd715dae35a47f9de235eda2f50ab56edc93cce4c1925aedc17e89"
+  },
+  {
+    "path": "mugshots/2015-flavor-flav-nevada-highway-patrol-cutout.png",
+    "source_title": "Flavor Flav (Nevada Highway Patrol)",
+    "source_url": "https://raw.githubusercontent.com/ThewTheMighty/bookedforwhat-assets/main/mugshots/source-flavor-flav-2015.png",
+    "licence": "Public record (agency booking photograph, 2015)",
+    "year": 2015,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c0c5449de2f6766999e050e2521c795dc497e3595c65cd27f20e3794144d0ba9"
+  },
+  {
+    "path": "mugshots/1897-1933-john-davies-cattle-dealer-of-berrws-llangeitho-nlw-ms-23203b-14r-cutout.png",
+    "source_title": "File:John Davies, cattle dealer of Berrws, Llangeitho (NLW MS 23203B, 14r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/John_Davies%2C_cattle_dealer_of_Berrws%2C_Llangeitho_%28NLW_MS_23203B%2C_14r%29.jpg",
+    "licence": "CC0",
+    "year": "1897-1933",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "01c70c61809623729ee9d01e0439f2e2fc54ac24136d4fa9a97cddbe1b7414ec"
+  },
+  {
+    "path": "mugshots/1871-1873-catherine-cain-king-flickr-tyne-wear-archives-museums-cutout.png",
+    "source_title": "File:Catherine Cain King - Flickr - Tyne & Wear Archives & Museums.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Catherine_Cain_King_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
+    "licence": "No restrictions",
+    "year": "1871-1873",
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "953f307091201d484b006e6a7e8a07997dc3599d8ae65483d7fca4b65da1dcaf"
   }
 ]
