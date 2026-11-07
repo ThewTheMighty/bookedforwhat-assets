@@ -805,5 +805,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "6c2270731abaebf7a9c2c7c6f77b176cc9bd846a8126f2ebd0968003172d660f"
+  },
+  {
+    "path": "mugshots/2015-nelly-booking-photograph-putnam-county-sheriff-s-office-2015-cutout.png",
+    "source_title": "Nelly, booking photograph, Putnam County Sheriff's Office, 2015",
+    "source_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2015_15/973476/150412-cornell-haynes-nelly-mug-1050a.jpg",
+    "licence": "Booking photograph, agency record; see data/image_provenance.json",
+    "year": 2015,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "8628e0d0816a0fbe506ceef4f7b56ecf1a4a035b630cb078571289b0a25b329c"
+  },
+  {
+    "path": "mugshots/undated-william-lee-gipsy-of-llandeilo-nlw-ms-23203b-19r-cutout.png",
+    "source_title": "File:William Lee, Gipsy of Llandeilo (NLW MS 23203B, 19r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/William_Lee%2C_Gipsy_of_Llandeilo_%28NLW_MS_23203B%2C_19r%29.jpg",
+    "licence": "CC0",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "92dcdf34abf1181deb7f5eb49c0ba7e687b5639b468acf9a3a98d64943cd1af2"
+  },
+  {
+    "path": "mugshots/2013-reese-witherspoon-booking-photograph-city-of-atlanta-department-of-cor-cutout.png",
+    "source_title": "Reese Witherspoon, booking photograph, City of Atlanta Department of Corrections, 2013",
+    "source_url": "https://thesmokinggun.com/sites/default/files/photos/reesewitherspoon.jpg",
+    "licence": "Booking photograph, agency record; see data/image_provenance.json",
+    "year": 2013,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "523075df7d6215facd3a1b8cae25795dd8697cc9b8ad7c3e9772dfb7191976c2"
+  },
+  {
+    "path": "mugshots/1873-thomas-watson-flickr-tyne-wear-archives-museums-cutout.png",
+    "source_title": "File:Thomas Watson - Flickr - Tyne & Wear Archives & Museums.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thomas_Watson_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
+    "licence": "No restrictions",
+    "year": 1873,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "afef86a0fd7ac42f05630010b0620058f03903c1b6cbb56101ea9b36b271e120"
+  },
+  {
+    "path": "mugshots/2017-shia-labeouf-booking-photograph-chatham-county-sheriff-s-office-2017-cutout.png",
+    "source_title": "Shia LaBeouf, booking photograph, Chatham County Sheriff's Office, 2017",
+    "source_url": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/VAMRUNV44FDLHEII5FY46PQSZE.jpg?auth=0642ff671969ff4e7f6fa80b2605af12684880b33c4453ede57e5a231db931fd&width=980&height=551",
+    "licence": "Booking photograph, agency record; see data/image_provenance.json",
+    "year": 2017,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "cbd2f6b60d3503a54eed9f832abca75c628efa3b1bdb5c6440b462a05c7dc95a"
+  },
+  {
+    "path": "mugshots/1941-annie-parker-cutout.png",
+    "source_title": "File:Annie Parker.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Annie_Parker.jpg",
+    "licence": "Public domain",
+    "year": 1941,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "cd5787304fe3658b4171db74b98f92154e6b3a94d83004f4dfbdfb21994750fd"
+  },
+  {
+    "path": "mugshots/undated-elizabeth-rule-cutout.png",
+    "source_title": "File:Elizabeth Rule.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Elizabeth_Rule.jpg",
+    "licence": "Public domain",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "8cf63771ad438557bedb15d0d893d746a19d0edb34be09ac41f526f7acc0a80d"
   }
 ]
