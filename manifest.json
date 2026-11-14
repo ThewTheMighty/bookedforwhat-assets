@@ -1,15 +1,5 @@
 [
   {
-    "path": "mugshots/1871-ann-burns.jpg",
-    "source_title": "File:Ann Burns.jpg",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ann_Burns.jpg",
-    "licence": "No restrictions",
-    "year": 1871,
-    "categories": [
-      "Mug shots from the Tyne and Wear Archives and Museums"
-    ]
-  },
-  {
     "path": "mugshots/1873-elizabeth-stewart-mug-shot-1873-cutout.png",
     "source_title": "File:Elizabeth Stewart (mug shot, 1873).jpg",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Elizabeth_Stewart_%28mug_shot%2C_1873%29.jpg",
@@ -875,5 +865,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "8cf63771ad438557bedb15d0d893d746a19d0edb34be09ac41f526f7acc0a80d"
+  },
+  {
+    "path": "mugshots/1961-al-pacino-booking-photograph-rhode-island-adult-correctional-instituti-cutout.png",
+    "source_title": "Al Pacino, booking photograph, Rhode Island Adult Correctional Institutions, 1961",
+    "source_url": "https://vintagenewsdaily.com/wp-content/uploads/2021/04/al-pacino-mugshot-1.jpg",
+    "licence": "Booking photograph, agency record; see data/image_provenance.json",
+    "year": 1961,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "4bf6ba0b849b216450f233706d79c2b34928b865af48e82aa5049b31e3480bbf"
+  },
+  {
+    "path": "mugshots/undated-john-bolton-flickr-tyne-wear-archives-museums-cutout.png",
+    "source_title": "File:John Bolton - Flickr - Tyne & Wear Archives & Museums.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/John_Bolton_-_Flickr_-_Tyne_%26_Wear_Archives_%26_Museums.jpg",
+    "licence": "No restrictions",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c1e8d2389c8af6b99f05d8eaae0715dbeb4cf87b5dbcb1aa1f663d919bd3f230"
+  },
+  {
+    "path": "mugshots/1986-kurt-cobain-booking-photograph-aberdeen-police-department-1986-cutout.png",
+    "source_title": "Kurt Cobain, booking photograph, Aberdeen Police Department, 1986",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cobain_mugshot_cropped.jpg",
+    "licence": "Public domain (Wikimedia Commons); agency record, see data/image_provenance.json",
+    "year": 1986,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "b640d5098a0493df4a6f69d7f4e76e270c864ff855426e445afb366332de7255"
+  },
+  {
+    "path": "mugshots/undated-ann-burns-cutout.png",
+    "source_title": "File:Ann Burns.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ann_Burns.jpg",
+    "licence": "No restrictions",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "89aea967b89f698a1804e87c994d854d8622a79136946a73fa879c6c281c7440"
+  },
+  {
+    "path": "mugshots/2012-lauryn-hill-booking-photograph-united-states-marshals-service-2012-cutout.png",
+    "source_title": "Lauryn Hill, booking photograph, United States Marshals Service, 2012",
+    "source_url": "https://d.ibtimes.com/en/full/742216/lauryn-hill039s-mugshot.jpg",
+    "licence": "Booking photograph, agency record; see data/image_provenance.json",
+    "year": 2012,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "5e4a37f0f0304c2d6f1fe9c16ce8483e66dea18a6b348f353caaf74a72c45e86"
+  },
+  {
+    "path": "mugshots/undated-joseph-o-connor-tramping-labourer-of-galway-ireland-nlw-ms-23203b-39r-cutout.png",
+    "source_title": "File:Joseph O'Connor, tramping labourer of Galway, Ireland (NLW MS 23203B, 39r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Joseph_O%27Connor%2C_tramping_labourer_of_Galway%2C_Ireland_%28NLW_MS_23203B%2C_39r%29.jpg",
+    "licence": "CC0",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "1780f37e32b8b4cac88913630abd72e04c24dd2113970d92d830a285eaaf608a"
+  },
+  {
+    "path": "mugshots/1940-mary-shepperd-cutout.png",
+    "source_title": "File:Mary Shepperd.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mary_Shepperd.jpg",
+    "licence": "Public domain",
+    "year": 1940,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "ec96993fe02d021215f820f698c759ec71473ef6c0b8c09e7e235c1b2db42407"
   }
 ]
