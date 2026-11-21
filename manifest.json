@@ -935,5 +935,75 @@
     "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
     "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
     "sha256": "ec96993fe02d021215f820f698c759ec71473ef6c0b8c09e7e235c1b2db42407"
+  },
+  {
+    "path": "mugshots/undated-thomas-vaughan-stableman-of-london-nlw-ms-23203b-30v-cutout.png",
+    "source_title": "File:Thomas Vaughan, stableman of London (NLW MS 23203B, 30v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Thomas_Vaughan%2C_stableman_of_London_%28NLW_MS_23203B%2C_30v%29.jpg",
+    "licence": "CC0",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "d2a2730931b1eac1825e3cea5e5815deb5148acc0dd8bd9d0a45317ac2dfa28a"
+  },
+  {
+    "path": "mugshots/1995-hugh-grant-booking-photograph-los-angeles-police-department-1995-cutout.png",
+    "source_title": "Hugh Grant, booking photograph, Los Angeles Police Department, 1995",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hugh-grant-mugshot.jpg",
+    "licence": "Public domain (Wikimedia Commons); agency record, see data/image_provenance.json",
+    "year": 1995,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "da2074ebc0cde4ffa06024965f92dbdb12bb056e6fbc6ed274a82e71df0a5df2"
+  },
+  {
+    "path": "mugshots/undated-george-nash-labourer-of-boulton-nlw-ms-23203b-26r-cutout.png",
+    "source_title": "File:George Nash, labourer of Boulton (NLW MS 23203B, 26r).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/George_Nash%2C_labourer_of_Boulton_%28NLW_MS_23203B%2C_26r%29.jpg",
+    "licence": "CC0",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "cf8388fdeef7ac2e6ae04b753092873111f99e57aba8e214805b1fd3fdf66de2"
+  },
+  {
+    "path": "mugshots/1947-billie-holiday-booking-photograph-federal-bureau-of-prisons-1947-cutout.png",
+    "source_title": "Billie Holiday, booking photograph, Federal Bureau of Prisons, 1947",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Billie_Holiday_mug_shot.jpg",
+    "licence": "Public domain (Wikimedia Commons); agency record, see data/image_provenance.json",
+    "year": 1947,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "ce6fc109bd27d33aab16e535495fc2882885aac5ee086d3138cd86f93d1f8bbb"
+  },
+  {
+    "path": "mugshots/1873-harriet-davison-convicted-of-stealing-money-28277800560-cutout.png",
+    "source_title": "File:Harriet Davison, convicted of stealing money (28277800560).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Harriet_Davison%2C_convicted_of_stealing_money_%2828277800560%29.jpg",
+    "licence": "No restrictions",
+    "year": 1873,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "24cb702176a5313b3185eb9a81ba7c791d34f16fb7491e119f0717c27bf470c1"
+  },
+  {
+    "path": "mugshots/1951-lenny-bruce-booking-photograph-miami-beach-police-department-1951-cutout.png",
+    "source_title": "Lenny Bruce, booking photograph, Miami Beach Police Department, 1951",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lenny_Bruce_mugshot_1951.jpg",
+    "licence": "Public domain (Wikimedia Commons); agency record, see data/image_provenance.json",
+    "year": 1951,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "c32297c029aec72608ff62fb01af25bb91e6551c6ecedfb89062be01e09cfcde"
+  },
+  {
+    "path": "mugshots/undated-james-murphy-labourer-of-birkenhead-nlw-ms-23203b-21v-cutout.png",
+    "source_title": "File:James Murphy, labourer of Birkenhead (NLW MS 23203B, 21v).jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/James_Murphy%2C_labourer_of_Birkenhead_%28NLW_MS_23203B%2C_21v%29.jpg",
+    "licence": "CC0",
+    "year": null,
+    "processing": "padded to frame ratio; dual plates cropped to the front view; background left intact",
+    "prepared_on": "github actions runner (sandbox cannot reach wikimedia)",
+    "sha256": "7b30f69d4a28a6fc37c3974ca89e3bab508a30cc9e71195db7b67d9444095d39"
   }
 ]
